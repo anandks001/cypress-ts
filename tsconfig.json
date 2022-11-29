@@ -5,7 +5,7 @@
 
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */                               /* Specify multiple folders that act like './node_modules/@types'. */
-    "types": ["node", "cypress"],                                      /* Specify type package names to be included without being referenced in a source file. */
+    "types": ["node", "cypress"],                        /* Specify type package names to be included without being referenced in a source file. */
     "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
     "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
 
