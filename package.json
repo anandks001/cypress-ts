@@ -2,18 +2,16 @@
   "name": "cypress-ts",
   "version": "1.0.0",
   "description": "Cypress with typescript",
-  "main": "index.js",
   "scripts": {
-    "test:e2e": "cypress open",
+    "test:e2e": "cypress open --e2e",
     "test:e2e:run": "cypress run"
-
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anandks001/cypress-ts.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anand Sundramurthy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anandks001/cypress-ts/issues"
